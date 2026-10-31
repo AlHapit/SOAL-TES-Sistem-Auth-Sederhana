@@ -8,7 +8,7 @@ Website Multiple-Sederhana
 - MySQL
 - Node
 #Masuk ke directory project Jika kamu memakai xampp lakukan ini di terminal
-cd C:\xampp\htdocs\multiple-sederhana
+cd C:\xampp\htdocs\multirole-sederhana
 #Install dependency laravel
 composer install
 2.Ganti env.example ke .env lalu konfigurasi ya man teman
